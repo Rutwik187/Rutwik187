@@ -22,6 +22,6 @@
 
 [![@rutwik187's Holopin board](https://holopin.me/rutwik187)](https://holopin.io/@rutwik187)
 
-### Snake Eating my Contribution Graph
+<!-- ### Snake Eating my Contribution Graph -->
 <!-- ![snake gif](https://github.com/Rutwik187/Rutwik187/blob/output/github-contribution-grid-snake.gif) -->
 

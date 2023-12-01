@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 👋 Hii i am Rutwik<br><br>
-🔭 I’m currently working on https://k-iam-web.vercel.app//<br><br>🌱 I’m currently learning Node.js, MongoDB<br>
+🌱 I’m currently learning Node.js, MongoDB<br>
 
 
 ## 🌐 Socials:

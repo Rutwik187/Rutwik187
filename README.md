@@ -1,7 +1,6 @@
 
 # 💫 About Me:
 👋 Hii i am Rutwik<br><br>
-🌱 I’m currently learning Node.js, MongoDB<br>
 
 
 ## 🌐 Socials:
